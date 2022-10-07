@@ -1,0 +1,21 @@
+body{
+    background-color: lightseagreen;
+
+}
+
+h1{
+    text-align: center;
+}
+
+.display-inline{
+    display: inline;
+    
+}
+
+.img{
+    width: 600px;
+    height: 600px;
+}
+
+
+
