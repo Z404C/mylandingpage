@@ -1,11 +1,14 @@
 body{
+    
     background-color: lightseagreen;
 
 }
 
 h1{
+    font-family: monospace;
     text-align: center;
 }
+
 
 .display-inline{
     display: inline;
@@ -15,7 +18,24 @@ h1{
 .img{
     width: 600px;
     height: 600px;
+
 }
+
+.img-padding{
+    padding: 15px;
+    background-color:whitesmoke;
+
+}
+
+.img-border{
+    border:10px solid palevioletred;
+}
+
+.img-margin{
+    margin: 25px;
+
+}
+
 
 
 
